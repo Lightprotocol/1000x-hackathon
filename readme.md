@@ -1,11 +1,11 @@
 # 1000x Hackathon
 
-**1000x** is a dedicated side track for the [Solana Breakout Hackathon](https://www.colosseum.org/breakout).
+**1000x** is a hackathon dedicated to ZK Compression on Solana. It runs parallel to the [Solana Breakout Hackathon](https://www.colosseum.org/breakout).
 
 - Hackathon dates: April 14th through May 16th.
 - Type: Online and global
-- More details: [Side track website](https://www.zkcompression.com/introduction/event).
-- Project registration form: Register here (TBA).
+- More details: [Side track website](https://www.zkcompression.com/introduction/event)
+- Project registration form: Register [here](https://docs.google.com/forms/d/e/1FAIpQLSekwFXBe009nO1fIgUHQfiAU0ILRN8y2O1XUm1qoJRZYGus-g/viewform?usp=header)
 
 ### Introduction
 
