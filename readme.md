@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/fcca5b0c-e00c-4270-be50-ba1c389a643c)
+
 # 1000x Hackathon
 
 **1000x** is a hackathon dedicated to ZK Compression on Solana. It runs parallel to the [Solana Breakout Hackathon](https://www.colosseum.org/breakout).
