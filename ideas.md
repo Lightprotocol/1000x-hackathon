@@ -2,64 +2,65 @@
 
 ## Consumer & Payments
 
-- Token Distribution: new mechanisms for consumer acquisition and retention via compressed tokens.
+- **Token Distribution**: New tools for consumer acquisition and retention via compressed tokens.
 
-- Feeds: new form factors for token discovery via compressed tokens.
+- **Feeds**: New apps for token discovery via compressed tokens.
   
-- Portfolio Apps: Charts, analytics, spam filters, for compressed token holdings.
+- **Portfolio Apps**: Charts, analytics, spam filters, for compressed token holdings.
 
-- Stablecoin Payment APIs: Using compressed tokens for issuance and batch payments at scale.
+- **Stablecoin Payment APIs**: Using compressed tokens for issuance and batch payments at scale.
 
 ## DeFi
+- **Launchpads:** Using compressed tokens to create novel launchpad designs (rewards, launches, loyalty).
 
-- Adapters: Web UI/APIs for atomically using compressed tokens with popular Swap-APIs, Apps, and liquidity platforms.
+- **Adapters:** UI/APIs to atomically use compressed tokens with Swap-APIs, Apps, and liquidity platforms.
 
-- Liquidity Mining Platform: Customizable mining system using compressed tokens or cPDAs.
+- **Liquidity Mining:** Customizable mining system using compressed tokens or cPDAs.
 
-- Launchpads: using compressed tokens to create novel launchpad designs (rewards, launches, loyalty).
- 
 ## Infrastructure
 
-- Staking: using compressed tokens and cPDAs for stake accounts.
+- **Staking:** Using compressed tokens and cPDAs for stake accounts.
 
-- Custom DePin reward tools: Configurable reward distribution using compressed tokens.
+- **DePin rewards:** Configurable reward distribution using compressed tokens.
 
-- Token Compression Suite: UIs and CLIs to mint, compress, and decompress SPL tokens with rent reclamation.
+- **Name Service:** Compressed DNS system with asset transfer support.
+  
+- **Token Compression Suite:** UIs to mint, compress, decompress SPL tokens with rent reclamation.
 
-- Name Service: Compressed DNS system with asset transfer support.
+- **Storage Cost Visualizer:** Tool showing rent savings from ZK Compression vs. regular Solana accounts.
 
-- Storage Cost Visualizer: UI tool showing rent savings from ZK Compression vs. regular Solana accounts.
+## ZK Apps
 
-- Tools and APIs for burn/freeze/thaw of compressed tokens.
+- **Private OTC:** using ZK Compression for encrypted state.
 
-- Cross-Chain Bridge: Trust-minimized token bridge using compression for Merkle root syncing.
+- **Private Stablecoin wrappers:** APIs encrypting balances of compressed tokens.
+  
+- **Identity:** using ZK Compression for Merkle proofs and storage.
 
-- Private OTC: using ZK Compression for encrypted state.
+- **DA SDK:** Toolkit for using Solana for DA with ZK Compression.
 
-- Private Stablecoin wrappers: APIs encrypting balances of compressed tokens. 
+- **ZK Oracle:** TLS signature verification using SNARKs with compressed PDA storage.
 
-- DA SDK: Toolkit for using Solana for DA with ZK Compression.
+- **Cross-Chain Bridge:** Trust-minimized token bridge using compression for Merkle root syncing.
+  
+- **Mobile-first APIs:** for zk compression.
 
-- ZK Oracle: TLS signature verification using SNARKs with compressed PDA storage.
-
-- Mobile-first APIs for zk compression.
-
-- Multi-Language SDKs: Ports of ZK Compression SDKs to other languages.
+- **Multi-Language SDKs:** Ports of ZK Compression SDKs to other languages.
 
 ## Gaming & Social
 
-- Text Adventure Engine: On-chain game state storage using compressed PDAs
+- **Text Adventure Engine**: On-chain game state storage using compressed PDAs
 
-- NFT Platform: Mass NFT creation and distribution system with compression
+- **NFT Platform:** Mass NFT creation and distribution system with compression
 
-- Prediction Markets: Compressed token-based wagering on social media content
+- **Prediction Markets:** Compressed token-based wagering on social media content
 
-- PvP Game Framework: On-chain games with zk-based hidden information
+- **PvP Game Framework:** On-chain games with zk-based hidden information
 
-- Ad Platform: On-chain advertising using compressed accounts
+- **Ad Platform:** On-chain advertising using compressed accounts
 
 ## Wallet & User Experience
 
-- Compressed Asset Wallet: Web/extension wallet optimized for compressed tokens
+- **Compressed Asset Wallet:** Web/extension wallet optimized for compressed tokens
 
-- User Engagement System: Loyalty/reputation tracking with compressed tokens
+- **User Engagement System:** Loyalty/reputation tracking with compressed tokens
