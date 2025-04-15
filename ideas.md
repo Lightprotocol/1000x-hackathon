@@ -1,23 +1,23 @@
-# Hackathon Ideas
+# 1000x / Breakout Hackathon Ideas
 
-## Consumer
+## Consumer & Payments
 
-- Token Distribution: Mechanisms for user acquisition and retention via compressed token airdrops.
+- Token Distribution: new mechanisms for consumer acquisition and retention via compressed tokens.
 
-- Portfolio Apps: Charts and analytics for compressed token holdings.
+- Feeds: new form factors for token discovery via compressed tokens.
+  
+- Portfolio Apps: Charts, analytics, spam filters, for compressed token holdings.
 
 - Stablecoin Payment APIs: Using compressed tokens for issuance and batch payments at scale.
 
-- Spam Filter: Asset viewer filtered by attached lamport amounts.
-
 ## DeFi
 
-- Atomic Token Swap: APIs and UIs for one-click compressed token integration via Swap APIs (Jup, Titan, etc.)
+- Adapters: Web UI/APIs for atomically using compressed tokens with popular Swap-APIs, Apps, and liquidity platforms.
 
-- Web UI/APIs for using compressed tokens with DEXs (Raydium, Meteora, Orca,...)
+- Liquidity Mining Platform: Customizable mining system using compressed tokens or cPDAs.
 
-- Liquidity Mining Platform: Customizable mining system using compressed tokens/PDAs
-
+- Launchpads: using compressed tokens to create novel launchpad designs (rewards, launches, loyalty).
+ 
 ## Infrastructure
 
 - Staking: using compressed tokens and cPDAs for stake accounts.
@@ -28,15 +28,19 @@
 
 - Name Service: Compressed DNS system with asset transfer support.
 
-- Storage Cost Visualizer: UI tool showing rent savings from ZK Compression vs regular Solana accounts.
+- Storage Cost Visualizer: UI tool showing rent savings from ZK Compression vs. regular Solana accounts.
 
 - Tools and APIs for burn/freeze/thaw of compressed tokens.
 
 - Cross-Chain Bridge: Trust-minimized token bridge using compression for Merkle root syncing.
 
-- ZK Oracle: TLS signature verification using SNARKs with compressed PDA storage.
+- Private OTC: using ZK Compression for encrypted state.
+
+- Private Stablecoin wrappers: APIs encrypting balances of compressed tokens. 
 
 - DA SDK: Toolkit for using Solana for DA with ZK Compression.
+
+- ZK Oracle: TLS signature verification using SNARKs with compressed PDA storage.
 
 - Mobile-first APIs for zk compression.
 
