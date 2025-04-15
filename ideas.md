@@ -1,5 +1,7 @@
 # 1000x / Breakout Hackathon Ideas
 
+**Register for the Hackathon [here](https://www.zkcompression.com/event/event-1000x-hackathon).**
+
 ## Consumer & Payments
 
 - **Token Distribution**: New tools for consumer acquisition and retention via compressed tokens.
@@ -64,3 +66,7 @@
 - **Compressed Asset Wallet:** Web/extension wallet optimized for compressed tokens
 
 - **User Engagement System:** Loyalty/reputation tracking with compressed tokens
+
+---
+ 
+**Register for the Hackathon [here](https://www.zkcompression.com/event/event-1000x-hackathon).**
