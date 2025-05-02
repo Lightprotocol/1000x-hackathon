@@ -14,7 +14,7 @@ The interface should:
 - Let creators mint experience tokens (cTokens for airdrops)
 - and let attendees claim them by scanning a QR code
 
-**_Submissions to the Solana Foundation prize are due by May 9, 2025._**
+**_Submissions to the Solana Foundation prizes are due by May 9, 2025._**
 
 ## Consumer & Payments
 
