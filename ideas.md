@@ -2,6 +2,20 @@
 
 **Register for the Hackathon [here](https://www.zkcompression.com/event/event-1000x-hackathon).**
 
+## Dedicated Solana Foundation prizes 
+
+The Solana Foundation is sponsoring a dedicated prize pool for
+
+- the best cToken Integration with Solana Pay
+
+- the best cToken Proof-of-Participation (POP) interface
+
+The interface should:
+- Let creators mint experience tokens (cTokens for airdrops)
+- and let attendees claim them by scanning a QR code
+
+**_Submissions to the Solana Foundation prize are due by May 9, 2025._**
+
 ## Consumer & Payments
 
 - **Token Distribution**: New tools for consumer acquisition and retention via compressed tokens.
